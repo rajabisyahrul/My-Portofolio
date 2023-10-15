@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Syahrul Rajabi
+Syahrul Rajabi
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+rajabisyahrul@gmail.com
 
 Phone
-+1 (213) 352-2795
+081211905361
 
 Birthday
-June 23, 1982
+November 06, 1998
 
 Location
-Sacramento, California, USA
+Jakarta, Indonesia
 
 # navbar
 
