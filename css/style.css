@@ -1,6 +1,6 @@
 :root {
-  --lightTheme: #FFFFFF;
-  --darkTheme: #111111;
+  --lightTheme: #111111;
+  --darkTheme: #FFFFFF;
   --borderRadius: 10px;
   --animation: all 0.5s ease;
 }
