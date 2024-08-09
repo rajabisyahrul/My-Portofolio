@@ -1777,7 +1777,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .tooltip {
   position: absolute;
   top: -40px;
-  background: var(--orange-yellow-crayola);
+  background: var(--raw-seinna);
   min-width: max-content;
   color: var(--white-2);
   font-size: 17px;
