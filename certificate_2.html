@@ -31,22 +31,6 @@
   </head>
 
 <body>
-   <div>
-     <div class="wave"></div>
-     <div class="wave"></div>
-     <div class="wave"></div>
-     <div class="wave"></div>
-  </div>
- <!--
-    - #TOGGLE DARK-LIGHT
-  -->
-    <label for="checkbox" class="toggle">
-          <input type="checkbox" class="checkbox" id="checkbox" />
-          <div class="slider">
-            <div class="moon"></div>
-            <div class="sun"></div>
-          </div>
-        </label>
   <!--
     - #MAIN
   -->
@@ -66,21 +50,23 @@
       - #main-content
     -->
 
-    <div class="main-content">
+    <nav class="navbar">
 
-      <!--
-        - #NAVBAR
-      -->
-<nav class="navbar">
+      <ul class="navbar-list">
 
-        <ul class="navbar-list">
+        <li class="navbar-item ">
+          <a href="index.html" class="navbar-link  active" data-nav-link>HOME</a>
+        </li>
+        <label for="checkbox" class="toggle">
+          <input type="checkbox" class="checkbox" id="checkbox" />
+          <div class="slider">
+            <div class="moon"></div>
+            <div class="sun"></div>
+          </div>
+        </label>
+        </ul>
 
-          <li class="navbar-item ">
-            <a href="index.html" class="navbar-link  active" data-nav-link>HOME</a>
-          </li>
-          </ul>
-
-      </nav>
+    </nav>
 
       <!--
         - #ABOUT
