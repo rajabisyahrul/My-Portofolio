@@ -40,6 +40,48 @@ h6 {
 --------------------------------------------------------------*/
 
 
+/**
+* Template Name: iPortfolio
+* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+* Updated: Mar 17 2024 with Bootstrap v5.3.3
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #272829;
+}
+
+a {
+  color: #149ddd;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #37b3ed;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+
+
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+
+
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
@@ -53,10 +95,10 @@ h6 {
 
 
 #hero h1 {
-  margin: 0 0 10px 0;
+  margin: 0 0 5px 0;
   font-size: 10px;
   font-weight: 700;
-  line-height: 56px;
+  line-height: 30px;
   color: #fff;
 }
 
@@ -79,7 +121,7 @@ h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 28px;
+    font-size: 10px;
     line-height: 36px;
   }
 
