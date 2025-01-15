@@ -908,6 +908,7 @@ section {
 }
 
 .portfolio-details .portfolio-description {
+  margin-bottom: 20px;
   background-color: #1e1e1f;
   border-radius: 30px;
   padding-top: 10px;
