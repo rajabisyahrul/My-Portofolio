@@ -599,6 +599,7 @@ main {
 
   /* Style buttons */
 .button {
+  margin-bottom: 30px;
  display: inline-block;
  border-radius: 7px;
  border: none;
