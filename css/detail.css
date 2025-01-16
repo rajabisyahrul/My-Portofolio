@@ -912,7 +912,7 @@ section {
   border: 1px solid #ffffff;
   margin-bottom: 20px;
   background-color: #1e1e1f;
-  border-radius: 30px;
+  border-radius: 20px;
   padding-top: 10px;
  
 }
@@ -922,7 +922,7 @@ section {
   padding: 30px;
   font-size: 26px;
   font-weight: 700;
-  margin-bottom: 0px;
+  margin-bottom: -50px;
 }
 
 .portfolio-details .portfolio-description p {
