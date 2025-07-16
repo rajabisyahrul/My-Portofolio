@@ -1,4 +1,34 @@
-  /* Style buttons */
+/*-----------------------------------*\
+  #style.css
+\*-----------------------------------*/
+
+
+/**
+ * copyright 2022 @codewithsadee
+ */
+
+ :root {
+--jet: hsl(0, 0%, 22%);
+  --onyx: hsl(240, 1%, 17%);
+  --eerie-black-1: hsl(240, 2%, 13%);
+  --eerie-black-2: hsl(240, 2%, 12%);
+  --smoky-black: hsl(0, 0%, 7%);
+  --white-1: hsl(0, 0%, 100%);
+  --white-2: hsl(0, 0%, 98%);
+  --orange-yellow-crayola: hsl(45, 100%, 72%);
+  --vegas-gold: hsl(45, 54%, 58%);
+  --light-gray: hsl(0, 0%, 84%);
+  --light-gray-70: hsla(0, 0%, 84%, 0.7);
+  --bittersweet-shimmer: hsl(0, 43%, 51%);
+   --raw-seinna: hsl(24, 74%, 58%);
+  --sizzling-sunrise: hsl(51, 95%, 54%);
+  --scarlet: hsl(13, 96%, 47%);
+  --black: hsl(0, 0%, 0%);
+  --blue: hsl(202, 94%, 54%);
+  --green: hsl(136, 100%, 50%);
+  --green-1: hsl(114, 98%, 50%);
+
+/* Style buttons */
 .button {
   margin-bottom: 30px;
  display: inline-block;
